@@ -2,11 +2,17 @@
 title: link
 date: 2022-05-20 18:54:06
 type: "link"
+top_img: https://www4.bing.com//th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
 ---
--class_name: 友情链接
- class_desc: 高质量网站
- link_list:
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+
+
+
+
+<!-- 此md文写友链页面的文字内容 -->
+
+---
+
+1234567890
+
+
+
