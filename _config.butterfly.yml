@@ -342,7 +342,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.js.org/quick-start.html#%E5%89%8D%E7%AB%AF%E9%83%A8%E7%BD%B2
+  envId: https://comment-cyan-one.vercel.app/
   region:
   visitor: true
   option:
