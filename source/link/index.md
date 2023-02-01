@@ -1,5 +1,5 @@
 ---
-title: link
+title: 友链
 date: 2022-05-20 18:54:06
 type: "link"
 top_img: https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/m3/wallhaven-m3pvy8.jpg?w=2560&h=1440&fmt=webp
@@ -18,6 +18,7 @@ top_img: https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/m3/wallhaven-m3
 >是不断的经历<br />
 >坚持走下去。<br />
 
+---
 
 
 
